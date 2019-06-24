@@ -4,9 +4,15 @@
 }
 
 /*media query */
-@media screen only and(min-size: 240px) and (max-size: 480px) {
+@media  (min-size: 200px;) and (max-size: 500px;) {
   .heading {
     font-size: 1.3em;
+  }
+}
+
+@media screen (min-size: 200px;) and (max-size: 500px;) {
+  .form-layout {
+    text-align: center;
   }
 }
 /*end query*/
