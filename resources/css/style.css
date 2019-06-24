@@ -5,41 +5,41 @@
 
 /*media query */
 
-@media (min-size: 200px) and (max-size: 700px) {
+/* @media (min-size: 200px) and (max-size: 700px) {
   .form-body {
     width: 100%;
     text-align: center;
-    font-size: 8em;
+
   }
 
-  .form-body {
+  .form-layout {
     width: 100%;
     text-align: center;
   }
 
   .fName {
     text-align: center;
-    font-size: 3em;
+
   }
 
-  input {
+  .f_name {
     text-align: center;
-    font-size: 3em;
+    font-size: 2.2em;
   }
 
-  label {
+  .l_name {
     text-align: center;
-    font-size: 3em;
+    font-size: 2.2em;
   }
 
   .pswd_2 {
     text-align: center;
-    font-size: 3em;
+
   }
 
   .email {
     text-align: center;
-    font-size: 3em;
+
   }
 
   .heading {
@@ -51,7 +51,7 @@
     margin-top: 28.8em;
     margin-right: 30em;
   }
-}
+} */
 /*end query*/
 
 html {
