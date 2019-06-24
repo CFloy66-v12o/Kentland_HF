@@ -3,6 +3,14 @@
   padding: 0;
 }
 
+/*media query */
+@media screen only and(min-size: 240px) and (max-size: 480px) {
+  .heading {
+    font-size: 1.3em;
+  }
+}
+/*end query*/
+
 html {
   font-size: 18px;
 }
