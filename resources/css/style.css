@@ -33,7 +33,7 @@
 
   .email {
     text-align: center;
-    font-size: 50%;
+    font-size: 2em;
   }
 
   .heading {
@@ -67,20 +67,20 @@ body {
 
 
 .fName {
-  margin-bottom: 1.4em;
+  margin-bottom: 1.8em;
 }
 
 .lName {
-  margin-bottom: 1.4em;
+  margin-bottom: 1.8em;
 }
 
 .email {
-  margin-bottom: 1.4em;
+  margin-bottom: 1.8em;
   margin-left: 4em;
 }
 
 .pswd_1 {
-  margin-bottom: 1.4em;
+  margin-bottom: 1.8em;
   margin-right: 4.3em;
 }
 
@@ -91,7 +91,7 @@ body {
 label {
   color: darkorange;
   font-size: 2em;
-  margin: .4em;
+  margin: 1em;
 }
 
 input {
@@ -102,7 +102,7 @@ input {
 }
 
 .button {
-  margin-top: 3em;
+  margin-top: 10em;
 }
 
 
@@ -128,3 +128,16 @@ button:active {
 }
 
 /* end form styles */
+
+.more-info {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  font-size: 1.3em;
+  margin-top: 26em;
+  margin-right: 30em;
+}
+
+div a {
+  color: darkorange;
+}
