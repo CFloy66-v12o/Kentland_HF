@@ -5,53 +5,15 @@
 
 /*media query */
 
-/* @media (min-size: 200px) and (max-size: 700px) {
-  .form-body {
-    width: 100%;
-    text-align: center;
-
-  }
-
-  .form-layout {
-    width: 100%;
-    text-align: center;
-  }
-
-  .fName {
-    text-align: center;
-
-  }
-
-  .f_name {
-    text-align: center;
-    font-size: 2.2em;
-  }
-
-  .l_name {
-    text-align: center;
-    font-size: 2.2em;
-  }
-
-  .pswd_2 {
-    text-align: center;
-
-  }
-
-  .email {
-    text-align: center;
-
-  }
-
-  .heading {
-    font-size: 1.3em;
-  }
+@media (min-size: 200px) and (max-size: 700px) {
 
   .more-info {
+    width: 100%;
     position: absolute;
     margin-top: 28.8em;
     margin-right: 30em;
   }
-} */
+}
 /*end query*/
 
 html {
