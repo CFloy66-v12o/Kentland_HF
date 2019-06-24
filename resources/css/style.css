@@ -39,6 +39,12 @@
   .heading {
     font-size: 1.3em;
   }
+
+  .more-info {
+    position: absolute;
+    margin-top: 28.8em;
+    margin-right: 30em;
+  }
 }
 /*end query*/
 
