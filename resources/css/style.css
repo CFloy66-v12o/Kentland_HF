@@ -26,22 +26,23 @@ body {
   padding: 2em;
 }
 
+
 .fName {
-  margin-bottom: .8em;
+  margin-bottom: 1.4em;
 }
 
 .lName {
-  margin-bottom: .8em;
+  margin-bottom: 1.4em;
 }
 
 .email {
-  margin-bottom: .8em;
+  margin-bottom: 1.4em;
   margin-left: 4em;
 }
 
 .pswd_1 {
-  margin-bottom: .8em;
-  margin-right: 5em;
+  margin-bottom: 1.4em;
+  margin-right: 4.3em;
 }
 
 .pswd_2 {
@@ -56,6 +57,9 @@ label {
 
 input {
   font-size: 1.5em;
+  color: #ff8000;
+  border-radius: 5px;
+  border-color: darkorange;
 }
 
 .button {
@@ -65,7 +69,7 @@ input {
 
 button {
   padding: 10px;
-  font-size: 15px;
+  font-size: 1.2em;
   font-family: fantasy;
   border-radius: 15px;
   background-color: darkorange;
