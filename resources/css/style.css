@@ -4,15 +4,28 @@
 }
 
 /*media query */
-@media  (min-size: 200px;) and (max-size: 500px;) {
+@media screen (min-size: 200px;) and (max-size: 500px;) {
   .heading {
     font-size: 1.3em;
+  }
+
+  .email {
+    text-align: center;
+  }
+
+  .pswd_1 {
+    text-align: center;
+  }
+
+  .pswd_2 {
+    text-align: center;
   }
 }
 
 @media screen (min-size: 200px;) and (max-size: 500px;) {
   .form-layout {
     text-align: center;
+    font-size: 2em;
   }
 }
 /*end query*/
