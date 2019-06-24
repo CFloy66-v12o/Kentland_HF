@@ -35,11 +35,14 @@ label {
 button {
   padding: 10px;
   font-size: 15px;
+  font-family: fantasy;
   border-radius: 15px;
+  background-color: darkorange;
+  color: #000;
 }
 
 button:active {
-  color: darkorange;
+  background-color: ghostwhite;
 }
 
 .button:active {
