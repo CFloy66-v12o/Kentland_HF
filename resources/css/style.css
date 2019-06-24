@@ -13,25 +13,27 @@
 
   .fName {
     text-align: center;
-    font-size: 2em;
+    font-size: 50%;
   }
 
   input {
     text-align: center;
-    font-size: 4em;
+    font-size: 50%;
   }
 
   label {
     text-align: center;
-    font-size: 4em;
+    font-size: 50%;
   }
 
   .pswd_2 {
     text-align: center;
+    font-size: 50%;
   }
 
   .email {
     text-align: center;
+    font-size: 50%;
   }
 
   .heading {
