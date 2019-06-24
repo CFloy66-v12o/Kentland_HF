@@ -4,25 +4,8 @@
 }
 
 /*media query */
-@media screen and (min-size: 200px) and (max-size: 500px) {
-  .heading {
-    font-size: 1.3em;
-  }
 
-  .email {
-    text-align: center;
-  }
-
-  .pswd_1 {
-    text-align: center;
-  }
-
-  .pswd_2 {
-    text-align: center;
-  }
-}
-
-@media screen and (min-size: 200px) and (max-size: 450px) {
+@media (min-size: 200px) and (max-size: 450px) {
   .form-body {
     text-align: center;
     font-size: 2em;
@@ -41,6 +24,18 @@
   label {
     text-align: center;
     font-size: 4em;
+  }
+
+  .pswd_2 {
+    text-align: center;
+  }
+
+  .email {
+    text-align: center;
+  }
+
+  .heading {
+    font-size: 1.3em;
   }
 }
 /*end query*/
@@ -130,4 +125,4 @@ button:active {
 
 }
 
- /* end form styles */
+/* end form styles */
