@@ -19,12 +19,43 @@ body {
 
 /* start form styles */
 
+
 .form-layout {
   text-align: center;
+  margin: 1em 0 1em 0;
+  padding: 2em;
+}
+
+.fName {
+  margin-bottom: .8em;
+}
+
+.lName {
+  margin-bottom: .8em;
+}
+
+.email {
+  margin-bottom: .8em;
+  margin-left: 4em;
+}
+
+.pswd_1 {
+  margin-bottom: .8em;
+  margin-right: 5em;
+}
+
+.pswd_2 {
+  margin-right: 6em;
 }
 
 label {
   color: darkorange;
+  font-size: 2em;
+  margin: .4em;
+}
+
+input {
+  font-size: 1.5em;
 }
 
 .button {
