@@ -68,10 +68,12 @@ body {
 
 .fName {
   margin-bottom: 1.8em;
+  margin-right: .6em;
 }
 
 .lName {
   margin-bottom: 1.8em;
+  margin-right: .6em;
 }
 
 .email {
@@ -81,21 +83,21 @@ body {
 
 .pswd_1 {
   margin-bottom: 1.8em;
-  margin-right: 4.3em;
+  margin-right: 5.6em;
 }
 
 .pswd_2 {
-  margin-right: 6em;
+  margin-right: 7.2em;
 }
 
 label {
   color: darkorange;
-  font-size: 2em;
+  font-size: 2.3em;
   margin: 1em;
 }
 
 input {
-  font-size: 1.5em;
+  font-size: 2.3em;
   color: #ff8000;
   border-radius: 5px;
   border-color: darkorange;
@@ -134,7 +136,7 @@ button:active {
   top: 3px;
   right: 3px;
   font-size: 1.3em;
-  margin-top: 26em;
+  margin-top: 28.8em;
   margin-right: 30em;
 }
 
