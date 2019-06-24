@@ -17,6 +17,34 @@ body {
   color: darkorange;
 }
 
+/* start form styles */
+
 .form-layout {
   text-align: center;
 }
+
+label {
+  color: darkorange;
+}
+
+.button {
+  
+
+}
+
+button {
+  padding: 10px;
+  font-size: 15px;
+}
+
+button:active {
+  color: darkorange;
+}
+
+.button:active {
+  position: relative;
+  top: 3px;
+  right: 3px;
+}
+
+ /* end form styles */
