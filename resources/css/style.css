@@ -5,11 +5,16 @@
 
 /*media query */
 
-@media (min-size: 200px) and (max-size: 450px) {
+@media (min-size: 200px) and (max-size: 700px) {
   .form-body {
     width: 100%;
     text-align: center;
     font-size: 8em;
+  }
+
+  .form-body {
+    width: 100%;
+    text-align: center;
   }
 
   .fName {
