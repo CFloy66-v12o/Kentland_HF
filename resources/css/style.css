@@ -16,7 +16,15 @@
   form {
     max-width: 100%;
   }
+
+  .more-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
 }
+
 
 
 
